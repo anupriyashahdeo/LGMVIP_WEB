@@ -1,0 +1,36 @@
+.header{
+  text-align: center;
+  background-color: aquamarine;
+  height: 10%;
+  justify-content: space-between;
+  display: flex;
+}
+.head-btn{
+  height: 7%;
+  width: 7%;
+  margin-right:15%;
+  margin-top: 2%;
+  color: blue;
+  background-color: beige;
+  justify-content: center;
+
+}
+.card{
+  text-align: center;
+
+}
+.card-body{
+  text-align: center;
+  color: black;
+}
+.card-img-top{
+  display: flex;
+  width: 100%;
+}
+.card-text{
+  color:blue;
+}
+*{
+  box-sizing: border-box;
+  box-shadow: 2%;
+}
